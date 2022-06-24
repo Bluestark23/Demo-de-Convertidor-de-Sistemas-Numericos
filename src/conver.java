@@ -896,7 +896,6 @@ JOptionPane.showMessageDialog(this,"Ya es un octal");
 JOptionPane.showMessageDialog(this,"Seleccione un tipo de sistema numerico");
                  jComboBox3.setSelectedIndex(0);     
                  jComboBox2.setSelectedIndex(0);     
-///me lo revisa el lunes el programa ver como poner en caso de errro que me muestre mensaje
                 }
     }//GEN-LAST:event_jButton5ActionPerformed
 
